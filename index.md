@@ -1,6 +1,6 @@
 # System attack tool pack for Debian
 ```
-sudo -S apt-get update && cd /root/Downloads && sudo -S apt-get upgrade && sudo -S apt-get dist-upgrade && sudo -S apt-get install netdiscover && sudo -S apt-get install git && sudo -S apt-get install nmap && cd /opt && sudo -S apt-get install wireshark && sudo -S apt-get install python-pip && sudo -S git clone https://github.com/paterva/maltego-trx && sudo -S pip install maltego-trx && sudo -S gem install wirble sqlite3 bundler && cd /opt && sudo -S git clone https://github.com/rapid7/metasploit-framework.git && cd metasploit-framework && sudo -S bundle install
+sudo su && apt-get update && cd /root/Downloads && apt-get upgrade && apt-get dist-upgrade && apt-get install netdiscover && apt-get install git && apt-get install nmap && cd /opt && apt-get install wireshark && apt-get install python-pip && git clone https://github.com/paterva/maltego-trx && pip install maltego-trx && gem install wirble sqlite3 bundler && cd /opt && git clone https://github.com/rapid7/metasploit-framework.git && cd metasploit-framework && bundle install
 ```
 ## Tools
 * Metasploit
