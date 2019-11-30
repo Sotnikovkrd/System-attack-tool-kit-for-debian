@@ -6,7 +6,7 @@ sudo -S apt-get update && cd /root/Downloads && sudo -S apt-get upgrade && sudo 
 * Metasploit
 * Maltego
 * Netdiscover
-* wireshark
+* Wireshark
 * Nmap
 ## Commands for running tools
 1) Metasploit
