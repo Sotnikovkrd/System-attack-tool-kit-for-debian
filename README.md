@@ -10,22 +10,13 @@ sudo su && apt-get update && cd /root/Downloads && apt-get upgrade && apt-get di
 * Nmap
 ## Commands for running tools
 1) Metasploit
-```
-msfconsole
-```
+```msfconsole```
+
 2) Maltego
-```
-maltego
-```
+```maltego```
 3) Netdiscover
-```
-sudo netdiscover
-```
+```sudo netdiscover```
 4) Wireshark
-```
-wireshark
-```
+```wireshark```
 5) Nmap
-```
-nmap
-```
+```nmap```
