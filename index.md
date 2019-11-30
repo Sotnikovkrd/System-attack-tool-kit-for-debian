@@ -25,3 +25,7 @@ sudo netdiscover
 ```
 wireshark
 ```
+5) Nmap
+```
+nmap
+```
